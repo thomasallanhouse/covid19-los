@@ -22,4 +22,4 @@ Indicative_planning.ipynb - This produces indivative scenarios for healthcare pl
 
 ## Truncation corrected (TC) model on CHESS data
 
-See https://github.com/thomasallanhouse/covid19-growth and associated papers at https://arxiv.org/abs/2004.00117 and https://arxiv.org/abs/2005.04937
+Truncation_corrected_LoS.m and Truncation_corrected_LoS.py provide the main algorithm. See also https://github.com/thomasallanhouse/covid19-growth and associated papers at https://arxiv.org/abs/2004.00117 and https://arxiv.org/abs/2005.04937
