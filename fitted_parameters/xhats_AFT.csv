@@ -1,0 +1,5 @@
+,shape,neglogscale,,
+Hospital admission to ICU entry,0.773,-0.427,,
+ICU duration,1.028,-2.562,,
+Hospital admission to outcome (via ICU),1.433,-4.107,,
+Hospital admission to outcome (no ICU),1.05,-2.195,,
