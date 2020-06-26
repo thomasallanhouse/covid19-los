@@ -1,6 +1,6 @@
 # covid19-los
 
-Code For COVID-19 Hospital Length of Stay Work.
+Code For COVID-19 Hospital Length of Stay Work. The current manuscript draft is available `HERE <https://github.com/thomasallanhouse/covid19-los/blob/master/manuscript.pdf>`_.
 
 ## Accelerated Failure Time (AFT) model on CHESS data
 
