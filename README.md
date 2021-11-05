@@ -1,6 +1,8 @@
 # covid19-los
 
-Code For COVID-19 Hospital Length of Stay Work. The current manuscript draft is available at: https://github.com/thomasallanhouse/covid19-los/blob/master/manuscript.pdf
+Code For COVID-19 Hospital Length of Stay Work. The paper is at:
+
+Vekaria, B., Overton, C., Wiśniowski, A. et al. Hospital length of stay for COVID-19 patients: Data-driven methods for forward planning. BMC Infect Dis 21, 700 (2021). https://doi.org/10.1186/s12879-021-06371-6
 
 ## Accelerated Failure Time (AFT) model on CHESS data
 
